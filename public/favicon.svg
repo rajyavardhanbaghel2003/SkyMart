@@ -1,0 +1,23 @@
+<svg 
+  xmlns="http://www.w3.org/2000/svg" 
+  viewBox="0 0 32 32" 
+  width="30" 
+  height="30"
+>
+  <rect width="32" height="32" rx="8" fill="#c8f400" />
+  
+  {/* The 'g' tag acts as a container. 
+    'translate(5, 5)' moves the icon 5 units right and 5 units down 
+    to center it perfectly within the 32x32 space.
+  */}
+  <g transform="translate(4, 4)">
+    <path 
+      d="M4 14a1 1 0 0 1-.78-1.63l9.9-10.2a.5.5 0 0 1 .86.46l-1.92 6.02A1 1 0 0 0 13 10h7a1 1 0 0 1 .78 1.63l-9.9 10.2a.5.5 0 0 1-.86-.46l1.92-6.02A1 1 0 0 0 11 14z"
+      fill="#0a0a0a" 
+      stroke="#0a0a0a" 
+      strokeWidth="1" 
+      strokeLinecap="round" 
+      strokeLinejoin="round" 
+    />
+  </g>
+</svg>
